@@ -1,0 +1,4 @@
+Data Modelling Star Schema (denormalized) or a Snowflake Schema (normalized)
+The below is a snow flake schema .
+A snowflake schema is complex and more intricate structure where the dimension tables are normalized into multiple related tables to eliminate many-to-many relationships. 
+While this normalization helps reduce data redundancy, it can also lead to more complex queries and potentially slower performance due to the need to join multiple tables. 
