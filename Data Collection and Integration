@@ -1,0 +1,32 @@
+Understanding Data 
+
+Data Catalog is given, where the details of DB servers, tables with description and on call person contact is given.
+
+There are total 10 tables
+
+Dimension tables
+
+dim_customer (channel, customer, customer_code, market, platform) 209 rows * 5 columns
+dim_market (market, sub_zone, region) 27 rows * 3 columns
+dim_product (product_code, division, segment, category, product, variant) 397 rows * 6 columns
+
+fact tables
+
+fact_forecast_monthly (date, division, category, product_code, product, market, platform, channel, customer_code, customer_name, forecast_quantity) 1885941 rows * 11 columns
+fact_sales_monthly (date, division, category, product_code, product, market, platform, channel, customer_code, customer_name, sold_quantity) 1425706 rows * 11 columns
+freight_cost (market, fiscal_year, freight_pct, other_cost_pct) 135 rows * 4 columns
+gross_price (product_code, fiscal_year, gross_price) 1197 rows * 3 columns
+manufacturing_cost (product_code, cost_year, manufacturing_cost) 1197 rows * 3 columns
+post_invoice_deductions (customer_code, product_code, date, discounts_pct, other_deductions_pct) 2063076 rows * 5 columns
+pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct) 1045 rows * 3 columns
+
+Above tables are stored in mysql.
+
+First imported data from MySQL to PowerBI.
+
+Later received an excel file of Targets Data (  market, month, ns_target, gm_target, np_target) to com and pare the values with targets
+
+Marketshare Excel file (category, fiscal year, manufacturer, Sales, sub_zone, total_market_share) to calculate companies' marketshare and customer performance.
+
+Integrated above excel files later in PowerBI.
+
