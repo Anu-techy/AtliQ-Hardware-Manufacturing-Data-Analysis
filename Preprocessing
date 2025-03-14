@@ -1,0 +1,9 @@
+Preprocessing 
+
+1. Data cleaning
+2. To create a Dim_date table (date, month, fiscal_year columns for all the transactions in fact_sales_monthly)
+3. Data validation against Bench mark numbers to make sure that the data is loaded correctly for further transformations.
+4. Building fact_actual_estimates table
+5. Calculated columns for P & L Metrics using Power Query
+6. Calculated columns for P & L Metrics using DAX
+7. Optimization of the file size using DAX Studio
