@@ -13,9 +13,10 @@ Steps Involved:
 
 1. Business Model
 2. Data Collection and Integration
-3. Preprocessing
-4. Creating Dashboards for all the views
-5. Insights
+3. Report Optimization
+4. Preprocessing
+5. Creating Dashboards for all the views
+6. Insights
 
 What I learnt:
 
