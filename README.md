@@ -38,14 +38,5 @@ One could collaborate with the regional teams to adjust pricing strategies and d
 
 
 
-                                                                                      Formulas with Mutual Dependence
-
-                Gross Price – Pre invoice deductions = Net Invoice Sales
-
-                                                       Net Invoice Sales – Post invoice deductions = Net Sales
-
-                                                                                                     Net Sales - COGS = Gross Margin
-  
-                                                                                                                        Gross Margin - Promotions & other expenses = Net Profit
-
+                                                                                    
                                                                                      
