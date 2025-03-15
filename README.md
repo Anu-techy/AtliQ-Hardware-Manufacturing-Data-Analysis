@@ -17,7 +17,7 @@ Comprehensive report of the company with a Home page having links to the followi
 5. Insights
 
 
-                                                                                      **Formulas with mutual dependence**
+                                                                                      Formulas with Mutual Dependence
 
                 Gross Price – Pre invoice deductions = Net Invoice Sales
 
