@@ -15,3 +15,14 @@ Comprehensive report of the company with a Home page having links to the followi
 3. Preprocessing
 4. Creating Dashboards for all the views
 5. Insights
+
+
+Gross Price – Pre invoice deductions = Net Invoice Sales
+
+                                       Net Invoice Sales – Post invoice deductions = Net Sales
+
+                                                                                     Net Sales - COGS = Gross Margin
+
+                                                                                                        Gross Margin -- Promotions & other expenses = Net Profit
+
+                                                                                     
