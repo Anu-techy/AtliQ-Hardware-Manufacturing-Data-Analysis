@@ -17,14 +17,14 @@ Comprehensive report of the company with a Home page having links to the followi
 5. Insights
 
 
-**Formulas with mutual dependence**
+                                                                                      **Formulas with mutual dependence**
 
-  Gross Price – Pre invoice deductions = Net Invoice Sales
+                Gross Price – Pre invoice deductions = Net Invoice Sales
 
-                                         Net Invoice Sales – Post invoice deductions = Net Sales
+                                                       Net Invoice Sales – Post invoice deductions = Net Sales
 
-                                                                                       Net Sales - COGS = Gross Margin
+                                                                                                     Net Sales - COGS = Gross Margin
   
-                                                                                                          Gross Margin - Promotions & other expenses = Net Profit
+                                                                                                                        Gross Margin - Promotions & other expenses = Net Profit
 
                                                                                      
