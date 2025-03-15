@@ -1,6 +1,8 @@
 # Global-Tech-Hardware-Landscape-Key-Insights-and-Market-Trends
 
-Comprehensive report of the company with a Home page having links to the following views
+Aim
+
+To Build a Comprehensive report of the company with a Home page having links to the following views
 
 •	Finance View
 •	Sales View
@@ -11,7 +13,7 @@ Comprehensive report of the company with a Home page having links to the followi
 
 Steps Involved: 
 
-1. Business Model
+1. Understanding Business Model
 2. Data Collection and Integration
 3. Preprocessing
 4. Report Optimization
