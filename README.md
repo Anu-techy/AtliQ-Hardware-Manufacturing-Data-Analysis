@@ -18,7 +18,7 @@ Steps Involved:
 3. Preprocessing
 4. Report Optimization
 5. Creating Dashboards for all the views
-6. Insights
+6. Actionable Insights & Recommendations
 
 What I learnt:
 
