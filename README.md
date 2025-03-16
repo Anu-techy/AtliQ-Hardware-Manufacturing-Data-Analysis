@@ -16,9 +16,10 @@ Steps Involved:
 1. Understanding Business Model
 2. Data Collection and Integration
 3. Preprocessing
-4. Report Optimization
-5. Creating Dashboards for all the views
-6. Actionable Insights & Recommendations
+4. Data Modelling
+5. Report Optimization
+6. Creating Dashboards for all the views
+7. Actionable Insights & Recommendations
 
 What I learnt:
 
