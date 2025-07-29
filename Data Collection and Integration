@@ -14,6 +14,9 @@ fact tables
 
 fact_forecast_monthly (date, division, category, product_code, product, market, platform, channel, customer_code, customer_name, forecast_quantity) 1885941 rows * 11 columns
 fact_sales_monthly (date, division, category, product_code, product, market, platform, channel, customer_code, customer_name, sold_quantity) 1425706 rows * 11 columns
+
+Supporting tables
+
 freight_cost (market, fiscal_year, freight_pct, other_cost_pct) 135 rows * 4 columns
 gross_price (product_code, fiscal_year, gross_price) 1197 rows * 3 columns
 manufacturing_cost (product_code, cost_year, manufacturing_cost) 1197 rows * 3 columns
