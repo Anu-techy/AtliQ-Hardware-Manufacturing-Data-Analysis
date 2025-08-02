@@ -27,7 +27,7 @@ Above tables are stored in mysql.
 
 First imported data from MySQL to PowerBI.
 
-Later received an excel file of Targets Data (  market, month, ns_target, gm_target, np_target) to com and pare the values with targets
+Later received an excel file of Targets Data ( market, month, ns_target, gm_target, np_target) to compare the values with targets
 
 Marketshare Excel file (category, fiscal year, manufacturer, Sales, sub_zone, total_market_share) to calculate companies' marketshare and customer performance.
 
