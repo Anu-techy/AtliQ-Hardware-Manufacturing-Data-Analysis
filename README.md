@@ -1,4 +1,4 @@
-# Global-Tech-Hardware-Landscape-Key-Insights-and-Market-Trends
+# AtliQ-Hardware-Landscape-Key-Insights-and-Market-Trends
 
 Aim
 
