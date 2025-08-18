@@ -1,4 +1,4 @@
-# 🏭 AtliQ Hardware Manufacturing Data Analysis (2018–2022, 1.8M+ Records)
+## 🏭 AtliQ Computer Hardware Manufacturing Data Analysis (2018–2022, 1.8M+ Records)
 
 This project is an **end-to-end data analysis** of AtliQ Hardware’s manufacturing and sales data (2018–2022, 1.8M+ records) using **Python, SQL, Power BI, and Machine Learning**.  
 
@@ -10,7 +10,7 @@ The goal was to provide unified insights across **Finance, Sales, Marketing, and
 - **Programming & Libraries:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn)  
 - **Database:** MySQL (Advanced Queries, Summaries, Indexing)  
 - **Visualization & Modeling:** Power BI (Snowflake Schema, DAX, DAX Studio Optimization)  
-- **Machine Learning:** discounts Anomaly Detection, Customer Segmentation, Product Recommendation System  
+- **Machine Learning:** Discount Anomaly Detection, Customer Segmentation, Product Recommendation System  
 
 ---
 
@@ -35,6 +35,26 @@ The goal was to provide unified insights across **Finance, Sales, Marketing, and
 ## 📊 Dashboard Preview
 *(Insert screenshots here from `visuals/` folder)*  
 ![Power BI Dashboard](visuals/dashboard.png)  
+
+---
+
+## 💡 Insights & Recommendations
+- **Sales Performance** – Certain regions showed a consistent sales decline. Further analysis revealed issues such as regional pricing mismatches and unmet customer demands.  
+  🔹 *Recommendation:* Collaborate with regional teams to revise pricing strategies and run targeted campaigns.  
+- **Discount Policy** – ML-based anomaly detection revealed irregular discounting patterns that were eroding margins.  
+  🔹 *Recommendation:* Implement stricter discount approval mechanisms to protect profitability.  
+- **Customer Segmentation** – Clustering highlighted high-value customers and low-engagement groups.  
+  🔹 *Recommendation:* Design personalized promotions and loyalty programs for high-value segments.  
+- **Inventory Management** – Supply chain dashboards indicated overstocking in some SKUs while others faced stockouts.  
+  🔹 *Recommendation:* Adopt demand-driven inventory planning using forecasting models.  
+
+---
+
+## 🎯 What I Learned
+- Dashboards and Data Visualizations don’t just provide answers; they **trigger the right questions** for deeper investigation.  
+- For example, sales dashboards showed regional drops, which led to identifying root causes like **pricing issues** and **unmet customer needs**.  
+- Asking these questions encouraged **cross-team collaboration** with Sales & Marketing to redesign strategies.  
+- This project emphasized the importance of blending **technical analysis with business context** to drive impactful decisions.  
 
 ---
 
@@ -63,40 +83,6 @@ The goal was to provide unified insights across **Finance, Sales, Marketing, and
 - 💻 GitHub: [Your Profile Link]  
 - 🎥 YouTube: [Your Channel Link]  
 - 🌐 LinkedIn: [Your LinkedIn Profile]  
-
-Aim
-
-To Build a Comprehensive report of the company with a Home page having links to the following views
-
-•	Finance View
-•	Sales View
-•	Marketing View
-•	Supply Chain View
-•	Executive View
-•	Support View
-
-Steps Involved: 
-
-1. Understanding Business Model
-2. Data Collection and Integration
-3. Preprocessing
-4. Data Modelling
-5. Report Optimization
-6. Creating Dashboards for all the views
-7. Actionable Insights & Recommendations
-
-What I learnt:
-
-Dashboards and Data Visualizations don’t just provide answers; they prompt users to ask critical questions about the data which they might not have considered otherwise. 
-This process helps users identify potential problems and focus on areas that require attention.
-
-For instance, 
-In the sales dashboard, the numbers prompted me to ask why sales were dropping in certain regions. 
-This led to deeper analysis and uncovering factors like regional pricing issues or unmet customer needs. 
-One could collaborate with the regional teams to adjust pricing strategies and develop targeted marketing efforts to improve sales in those regions.
-
-
-
 
 
 
