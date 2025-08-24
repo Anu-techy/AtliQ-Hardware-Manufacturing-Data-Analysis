@@ -1,4 +1,4 @@
-## 🏭 AtliQ Computer Hardware Manufacturing Data Analysis (2018–2022, 1.8M+ Records)
+
 
 This project is an **end-to-end data analysis** of AtliQ Hardware’s manufacturing and sales data (2018–2022, 1.8M+ records) using **Python, SQL, Power BI, and Machine Learning**.  
 
