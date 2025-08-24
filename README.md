@@ -2,8 +2,7 @@
 
 This project is an **end-to-end data analysis** of AtliQ Hardware’s manufacturing and sales data (2018–2022, 1.8M+ records) using **Python, SQL, Power BI, and Machine Learning**.  
 
-The goal was to provide unified insights across **Finance, Sales, Marketing, and Supply Chain** to support better strategic decisions and detect anomalies in business processes.
-
+The goal was to provide unified insights across **Finance, Sales, Marketing, and Supply Chain** to support better strategic decisions.
 ---
 
 ## 🔧 Tech Stack
