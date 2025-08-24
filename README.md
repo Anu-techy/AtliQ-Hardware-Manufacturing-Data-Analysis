@@ -63,27 +63,6 @@ The goal was to provide unified insights across **Finance, Sales, Marketing, and
 
 ---
 
-## 📑 Repository Contents
-- `notebooks/` → Jupyter notebooks for preprocessing, analysis & ML  
-- `sql/` → MySQL scripts (advanced queries, summaries)  
-- `powerbi/` → Power BI files & dashboard screenshots  
-- `visuals/` → PNGs of charts & dashboards  
-
----
-
-## 🚀 Future Enhancements
-- Deploy recommendation system as an API  
-- Automate data refresh pipeline (ETL) for near real-time analysis  
-- Extend ML models to predict **future sales & demand**  
-
----
-
-## 👤 Author
-**[Your Name]**  
-- 💻 GitHub: [Your Profile Link]  
-- 🎥 YouTube: [Your Channel Link]  
-- 🌐 LinkedIn: [Your LinkedIn Profile]  
-
 
 
 
